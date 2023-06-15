@@ -1,0 +1,2 @@
+#!/bin/bash
+echo i"base=10; obase=16; $DECIMAL" | bc
